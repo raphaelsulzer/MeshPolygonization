@@ -1,0 +1,16 @@
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/CMakeFiles/edit_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/CMakeFiles/edit_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/rply/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/rply/CMakeFiles/rply.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/rply/CMakeFiles/edit_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/soplex/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/soplex/CMakeFiles/soplex.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/soplex/CMakeFiles/edit_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/scip/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/scip/CMakeFiles/scip.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/3rd_party/scip/CMakeFiles/edit_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/Polygonization/CMakeFiles/rebuild_cache.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/Polygonization/CMakeFiles/Polygonization.dir
+/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/Polygonization/CMakeFiles/edit_cache.dir

@@ -31,8 +31,10 @@ target_include_directories(${PROJECT_NAME} PRIVATE
         ${POLYGONIZATION_scip_DIR}
         ${POLYGONIZATION_scip_DIR}/scip
         ${POLYGONIZATION_rply_DIR}
+        ${Boost_INCLUDE_DIRS}
+        /home/adminlocal/PhD/cpp/surfaceReconstruction/src/IO
         )
 
-target_link_libraries( ${PROJECT_NAME} scip soplex rply)
+target_link_libraries( ${PROJECT_NAME} ${Boost_LIBRARIES} scip soplex rply)
 
 include(../cmake/UseCGAL.cmake)

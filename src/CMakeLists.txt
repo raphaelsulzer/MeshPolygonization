@@ -42,6 +42,9 @@ if (NOT CGAL_FOUND)
     return()
 endif ()
 
+
+FIND_PACKAGE(Boost REQUIRED COMPONENTS iostreams program_options)
+
 ################################################################################
 
 ### Configuration
