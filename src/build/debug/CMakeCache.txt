@@ -303,6 +303,9 @@ soplex_BINARY_DIR:STATIC=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/d
 //Value Computed by CMake
 soplex_SOURCE_DIR:STATIC=/home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex
 
+//The directory containing a CMake configuration file for tinyply.
+tinyply_DIR:PATH=/usr/local/lib/cmake/tinyply
+
 
 ########################
 # INTERNAL cache entries

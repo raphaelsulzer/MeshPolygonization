@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.5.2, 2021-01-12T18:38:25. -->
+<!-- Written by QtCreator 4.5.2, 2021-01-13T18:57:38. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -116,6 +116,10 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
     <valuelist type="QVariantList" key="CMake.Configuration">
      <value type="QString">CMAKE_BUILD_TYPE:STRING=Release</value>
+     <value type="QString">CMAKE_CXX_COMPILER:STRING=%{Compiler:Executable:Cxx}</value>
+     <value type="QString">CMAKE_C_COMPILER:STRING=%{Compiler:Executable:C}</value>
+     <value type="QString">CMAKE_PREFIX_PATH:STRING=%{Qt:QT_INSTALL_PREFIX}</value>
+     <value type="QString">QT_QMAKE_EXECUTABLE:STRING=%{Qt:qmakeExecutable}</value>
     </valuelist>
     <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
@@ -213,7 +217,7 @@
      <value type="int">14</value>
     </valuelist>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguation.Title">Polygonization</value>
-    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments">-w /home/adminlocal/PhD/data/reconbench/reconstructions/poisson/7/ -i anchor_2</value>
+    <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.Arguments">-w /home/adminlocal/PhD/data/reconbench/reconstructions/ -i anchor.ply --distance 1.0 --importance 1.0</value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory"></value>
     <value type="QString" key="CMakeProjectManager.CMakeRunConfiguration.UserWorkingDirectory.default">/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/debug/bin</value>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>

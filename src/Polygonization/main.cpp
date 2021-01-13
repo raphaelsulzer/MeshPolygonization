@@ -11,11 +11,15 @@
 
 #include <chrono>
 
+#include <CGAL/Polygon_mesh_processing/polygon_soup_to_polygon_mesh.h>
+#include <CGAL/Surface_mesh.h>
 
 #include <boost/program_options.hpp>
 using namespace std;
 namespace po = boost::program_options;
 
+#include <tinyply.h>
+using namespace tinyply;
 
 po::options_description initOptions(){
 
@@ -67,36 +71,86 @@ int parse(int argc, char* argv[], po::variables_map& vm){
 
 
 
-//int importMeshPLY(string input_file, Mesh& mesh){
 
-//    cout << "Read mesh from " << input_file << endl;
 
-//    // read Binary PLY with sensor
-//    Mesh_ply aMesh;
-//    Import_PLY(input_file.c_str(), &aMesh);
+int importMeshPLY(const string filepath, Mesh& mesh){
 
-//    vector<Point_3> points;
-//    vector<vector<int>> facets;
+    cout << "Read mesh from " << filepath << endl;
 
-//    // save points
-//    for(int i = 0; i < aMesh.mVertices.size(); i++){
-//        Point_3 pt(aMesh.mVertices[i].x, aMesh.mVertices[i].y, aMesh.mVertices[i].z);
-//        points.push_back(pt);
-//    }
-//    // save facets
-//    for(int i = 0; i < aMesh.mIndices.size()/3; i++){
-//        std::vector<int> poly(3);
-//        poly[0] = aMesh.mIndices[(i*3)+0];
-//        poly[1] = aMesh.mIndices[(i*3)+1];
-//        poly[2] = aMesh.mIndices[(i*3)+2];
-//        facets.push_back(poly);
-//    }
+    std::unique_ptr<std::istream> file_stream;
+    // Because most people have their own mesh types, tinyply treats parsed data as structured/typed byte buffers.
+    // See examples below on how to marry your own application-specific data structures with this one.
+    std::shared_ptr<PlyData> vertices, faces;
 
-//    bool oriented = CGAL::Polygon_mesh_processing::orient_polygon_soup(points, facets);
-//    CGAL::Polygon_mesh_processing::polygon_soup_to_polygon_mesh(points, facets, mesh);
+    try
+    {
 
-//    return EXIT_SUCCESS;
-//}
+        file_stream.reset(new std::ifstream(filepath, std::ios::binary));
+
+
+        if (!file_stream || file_stream->fail()) throw std::runtime_error("file_stream failed to open " + filepath);
+
+        PlyFile file;
+        file.parse_header(*file_stream);
+
+        // The header information can be used to programmatically extract properties on elements
+        // known to exist in the header prior to reading the data. For brevity of this sample, properties
+        // like vertex position are hard-coded:
+        try { vertices = file.request_properties_from_element("vertex", { "x", "y", "z" }); }
+        catch (const std::exception & e) { std::cerr << "tinyply exception: " << e.what() << std::endl; }
+
+        // Providing a list size hint (the last argument) is a 2x performance improvement. If you have
+        // arbitrary ply files, it is best to leave this 0.
+        try { faces = file.request_properties_from_element("face", { "vertex_indices" }, 3); }
+        catch (const std::exception & e) { std::cerr << "tinyply exception: " << e.what() << std::endl; }
+
+        file.read(*file_stream);
+
+    }
+    catch (const std::exception & e)
+    {
+        std::cerr << "Caught tinyply exception: " << e.what() << std::endl;
+    }
+
+
+
+    struct float3 { float x, y, z; };
+    struct uint3 { uint32_t a, b, c; };
+    // TODO: variable-length branch of tinyply supports variable length polygons
+
+
+    const size_t numVerticesBytes = vertices->buffer.size_bytes();
+    std::vector<float3> verts(vertices->count);
+    std::memcpy(verts.data(), vertices->buffer.get(), numVerticesBytes);
+
+    const size_t numFacetBytes = faces->buffer.size_bytes();
+    std::vector<uint3> facs(faces->count);
+    std::memcpy(facs.data(), faces->buffer.get(), numFacetBytes);
+
+//    cout << "vert " << vertices->buffer.get()[0] << endl;
+
+    vector<Point_3> points;
+    vector<vector<size_t>> facets;
+    // save points
+    for(int i = 0; i < verts.size(); i++){
+        Point_3 pt(verts[i].x, verts[i].y, verts[i].z);
+        points.push_back(pt);
+    }
+    // save facets
+    for(int i = 0; i < facs.size(); i++){
+        std::vector<size_t> poly(3);
+        poly[0] = facs[i].a;
+        poly[1] = facs[i].b;
+        poly[2] = facs[i].c;
+        facets.push_back(poly);
+    }
+
+
+    bool oriented = CGAL::Polygon_mesh_processing::orient_polygon_soup(points, facets);
+    CGAL::Polygon_mesh_processing::polygon_soup_to_polygon_mesh(points, facets, mesh);
+
+    return EXIT_SUCCESS;
+}
 
 
 
@@ -117,6 +171,23 @@ int importMeshOFF(string input_file, Mesh& mesh){
     return 0;
 }
 
+//int importMeshPLY(string input_file, Mesh& mesh){
+
+//    cout << "Read mesh from " << input_file << endl;
+
+//    // Read mesh
+//    std::ifstream input(input_file.c_str());
+//    if (input.fail()) {
+//        std::cerr << "Failed to open file \'" << input_file << "\'." << std::endl;
+//        return 1;
+//    }
+//    string comments;
+//    if (!read_ply(input,mesh,comments)) {
+//        std::cerr << "Failed loading model from the file." << std::endl;
+//        return 1;
+//    }
+//    return 0;
+//}
 
 
 
@@ -130,12 +201,18 @@ int main(int argc, char *argv[]) {
 
 //    std::string input_file = "../../../data/building.off";
 //    if (argc == 2)
-    string input_file = options["working_dir"].as<string>() + options["input_file"].as<string>() + ".off";
+    const string input_file = options["working_dir"].as<string>() + options["input_file"].as<string>();
     Mesh mesh;
-    if(importMeshOFF(input_file,mesh))
+//    if(importMeshOFF(input_file,mesh))
+//        return EXIT_FAILURE;
+
+    if(importMeshPLY(input_file,mesh))
         return EXIT_FAILURE;
 
+    cout << "mesh faces " << mesh.number_of_faces() << endl;
 
+
+    // TODO: use tinyply for importing ply meshes
 	
 	// Planarity inputs
 	unsigned int num_rings = 3;
@@ -207,7 +284,7 @@ int main(int argc, char *argv[]) {
     string result_file;
     string suffix = "_d" + to_string(dist_threshold) + "_i" + to_string(importance_threshold) + ".ply";
     if(options.count("output_file"))
-        result_file = options["working_dir"].as<string>() + options["output_file"].as<string>() + suffix;
+        result_file = options["working_dir"].as<string>() + options["output_file"].as<string>();
     else
         result_file = options["working_dir"].as<string>() + options["input_file"].as<string>() + suffix;
 

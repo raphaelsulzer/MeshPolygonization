@@ -79,67 +79,67 @@ include Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/main.cpp.o: Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/main.cpp.o: ../../Polygonization/main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object Polygonization/CMakeFiles/Polygonization.dir/main.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/main.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/main.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp
 
 Polygonization/CMakeFiles/Polygonization.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Polygonization.dir/main.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp > CMakeFiles/Polygonization.dir/main.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp > CMakeFiles/Polygonization.dir/main.cpp.i
 
 Polygonization/CMakeFiles/Polygonization.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Polygonization.dir/main.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp -o CMakeFiles/Polygonization.dir/main.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/main.cpp -o CMakeFiles/Polygonization.dir/main.cpp.s
 
 Polygonization/CMakeFiles/Polygonization.dir/Planarity.cpp.o: Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/Planarity.cpp.o: ../../Polygonization/Planarity.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object Polygonization/CMakeFiles/Polygonization.dir/Planarity.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/Planarity.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/Planarity.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp
 
 Polygonization/CMakeFiles/Polygonization.dir/Planarity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Polygonization.dir/Planarity.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp > CMakeFiles/Polygonization.dir/Planarity.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp > CMakeFiles/Polygonization.dir/Planarity.cpp.i
 
 Polygonization/CMakeFiles/Polygonization.dir/Planarity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Polygonization.dir/Planarity.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp -o CMakeFiles/Polygonization.dir/Planarity.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Planarity.cpp -o CMakeFiles/Polygonization.dir/Planarity.cpp.s
 
 Polygonization/CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.o: Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.o: ../../Polygonization/PlanarSegmentation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object Polygonization/CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp
 
 Polygonization/CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp > CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp > CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.i
 
 Polygonization/CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp -o CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/PlanarSegmentation.cpp -o CMakeFiles/Polygonization.dir/PlanarSegmentation.cpp.s
 
 Polygonization/CMakeFiles/Polygonization.dir/Simplification.cpp.o: Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/Simplification.cpp.o: ../../Polygonization/Simplification.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object Polygonization/CMakeFiles/Polygonization.dir/Simplification.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/Simplification.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/Simplification.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp
 
 Polygonization/CMakeFiles/Polygonization.dir/Simplification.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Polygonization.dir/Simplification.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp > CMakeFiles/Polygonization.dir/Simplification.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp > CMakeFiles/Polygonization.dir/Simplification.cpp.i
 
 Polygonization/CMakeFiles/Polygonization.dir/Simplification.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Polygonization.dir/Simplification.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp -o CMakeFiles/Polygonization.dir/Simplification.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/Simplification.cpp -o CMakeFiles/Polygonization.dir/Simplification.cpp.s
 
 Polygonization/CMakeFiles/Polygonization.dir/StructureGraph.cpp.o: Polygonization/CMakeFiles/Polygonization.dir/flags.make
 Polygonization/CMakeFiles/Polygonization.dir/StructureGraph.cpp.o: ../../Polygonization/StructureGraph.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object Polygonization/CMakeFiles/Polygonization.dir/StructureGraph.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/StructureGraph.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Polygonization.dir/StructureGraph.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp
 
 Polygonization/CMakeFiles/Polygonization.dir/StructureGraph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Polygonization.dir/StructureGraph.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp > CMakeFiles/Polygonization.dir/StructureGraph.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp > CMakeFiles/Polygonization.dir/StructureGraph.cpp.i
 
 Polygonization/CMakeFiles/Polygonization.dir/StructureGraph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Polygonization.dir/StructureGraph.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp -o CMakeFiles/Polygonization.dir/StructureGraph.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/Polygonization && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/StructureGraph.cpp -o CMakeFiles/Polygonization.dir/StructureGraph.cpp.s
 
 # Object files for target Polygonization
 Polygonization_OBJECTS = \

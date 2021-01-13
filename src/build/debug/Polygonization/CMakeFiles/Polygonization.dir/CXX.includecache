@@ -109,6 +109,12 @@ FileWritter.h
 /home/adminlocal/PhD/cpp/MeshPolygonization/src/Polygonization/FileWritter.h
 chrono
 -
+CGAL/Polygon_mesh_processing/polygon_soup_to_polygon_mesh.h
+-
+CGAL/Surface_mesh.h
+-
 boost/program_options.hpp
+-
+tinyply.h
 -
 

@@ -79,821 +79,821 @@ include 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/changesoplex.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/changesoplex.cpp.o: ../../3rd_party/soplex/src/changesoplex.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/changesoplex.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/changesoplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/changesoplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/changesoplex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/changesoplex.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp > CMakeFiles/soplex.dir/src/changesoplex.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp > CMakeFiles/soplex.dir/src/changesoplex.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/changesoplex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/changesoplex.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp -o CMakeFiles/soplex.dir/src/changesoplex.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/changesoplex.cpp -o CMakeFiles/soplex.dir/src/changesoplex.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor.cpp.o: ../../3rd_party/soplex/src/clufactor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/clufactor.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/clufactor.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/clufactor.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp > CMakeFiles/soplex.dir/src/clufactor.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp > CMakeFiles/soplex.dir/src/clufactor.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/clufactor.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp -o CMakeFiles/soplex.dir/src/clufactor.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor.cpp -o CMakeFiles/soplex.dir/src/clufactor.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor_rational.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor_rational.cpp.o: ../../3rd_party/soplex/src/clufactor_rational.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor_rational.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/clufactor_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/clufactor_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor_rational.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/clufactor_rational.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp > CMakeFiles/soplex.dir/src/clufactor_rational.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp > CMakeFiles/soplex.dir/src/clufactor_rational.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/clufactor_rational.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/clufactor_rational.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp -o CMakeFiles/soplex.dir/src/clufactor_rational.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/clufactor_rational.cpp -o CMakeFiles/soplex.dir/src/clufactor_rational.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/didxset.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/didxset.cpp.o: ../../3rd_party/soplex/src/didxset.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/didxset.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/didxset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/didxset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/didxset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/didxset.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp > CMakeFiles/soplex.dir/src/didxset.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp > CMakeFiles/soplex.dir/src/didxset.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/didxset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/didxset.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp -o CMakeFiles/soplex.dir/src/didxset.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/didxset.cpp -o CMakeFiles/soplex.dir/src/didxset.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/enter.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/enter.cpp.o: ../../3rd_party/soplex/src/enter.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/enter.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/enter.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/enter.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/enter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/enter.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp > CMakeFiles/soplex.dir/src/enter.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp > CMakeFiles/soplex.dir/src/enter.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/enter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/enter.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp -o CMakeFiles/soplex.dir/src/enter.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/enter.cpp -o CMakeFiles/soplex.dir/src/enter.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/git_hash.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/git_hash.cpp.o: ../../3rd_party/soplex/src/git_hash.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/git_hash.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/git_hash.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/git_hash.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/git_hash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/git_hash.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp > CMakeFiles/soplex.dir/src/git_hash.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp > CMakeFiles/soplex.dir/src/git_hash.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/git_hash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/git_hash.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp -o CMakeFiles/soplex.dir/src/git_hash.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/git_hash.cpp -o CMakeFiles/soplex.dir/src/git_hash.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/gzstream.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/gzstream.cpp.o: ../../3rd_party/soplex/src/gzstream.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/gzstream.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/gzstream.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/gzstream.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/gzstream.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/gzstream.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp > CMakeFiles/soplex.dir/src/gzstream.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp > CMakeFiles/soplex.dir/src/gzstream.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/gzstream.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/gzstream.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp -o CMakeFiles/soplex.dir/src/gzstream.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/gzstream.cpp -o CMakeFiles/soplex.dir/src/gzstream.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/idxset.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/idxset.cpp.o: ../../3rd_party/soplex/src/idxset.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/idxset.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/idxset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/idxset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/idxset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/idxset.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp > CMakeFiles/soplex.dir/src/idxset.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp > CMakeFiles/soplex.dir/src/idxset.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/idxset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/idxset.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp -o CMakeFiles/soplex.dir/src/idxset.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/idxset.cpp -o CMakeFiles/soplex.dir/src/idxset.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/leave.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/leave.cpp.o: ../../3rd_party/soplex/src/leave.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/leave.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/leave.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/leave.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/leave.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/leave.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp > CMakeFiles/soplex.dir/src/leave.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp > CMakeFiles/soplex.dir/src/leave.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/leave.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/leave.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp -o CMakeFiles/soplex.dir/src/leave.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/leave.cpp -o CMakeFiles/soplex.dir/src/leave.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/mpsinput.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/mpsinput.cpp.o: ../../3rd_party/soplex/src/mpsinput.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/mpsinput.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/mpsinput.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/mpsinput.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/mpsinput.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/mpsinput.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp > CMakeFiles/soplex.dir/src/mpsinput.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp > CMakeFiles/soplex.dir/src/mpsinput.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/mpsinput.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/mpsinput.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp -o CMakeFiles/soplex.dir/src/mpsinput.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/mpsinput.cpp -o CMakeFiles/soplex.dir/src/mpsinput.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/nameset.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/nameset.cpp.o: ../../3rd_party/soplex/src/nameset.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/nameset.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/nameset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/nameset.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/nameset.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/nameset.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp > CMakeFiles/soplex.dir/src/nameset.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp > CMakeFiles/soplex.dir/src/nameset.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/nameset.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/nameset.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp -o CMakeFiles/soplex.dir/src/nameset.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/nameset.cpp -o CMakeFiles/soplex.dir/src/nameset.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/rational.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/rational.cpp.o: ../../3rd_party/soplex/src/rational.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/rational.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/rational.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/rational.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp > CMakeFiles/soplex.dir/src/rational.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp > CMakeFiles/soplex.dir/src/rational.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/rational.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/rational.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp -o CMakeFiles/soplex.dir/src/rational.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/rational.cpp -o CMakeFiles/soplex.dir/src/rational.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/ratrecon.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/ratrecon.cpp.o: ../../3rd_party/soplex/src/ratrecon.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/ratrecon.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/ratrecon.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/ratrecon.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/ratrecon.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/ratrecon.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp > CMakeFiles/soplex.dir/src/ratrecon.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp > CMakeFiles/soplex.dir/src/ratrecon.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/ratrecon.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/ratrecon.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp -o CMakeFiles/soplex.dir/src/ratrecon.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/ratrecon.cpp -o CMakeFiles/soplex.dir/src/ratrecon.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor.cpp.o: ../../3rd_party/soplex/src/slufactor.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/slufactor.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/slufactor.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/slufactor.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp > CMakeFiles/soplex.dir/src/slufactor.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp > CMakeFiles/soplex.dir/src/slufactor.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/slufactor.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp -o CMakeFiles/soplex.dir/src/slufactor.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor.cpp -o CMakeFiles/soplex.dir/src/slufactor.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor_rational.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor_rational.cpp.o: ../../3rd_party/soplex/src/slufactor_rational.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor_rational.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/slufactor_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/slufactor_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor_rational.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/slufactor_rational.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp > CMakeFiles/soplex.dir/src/slufactor_rational.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp > CMakeFiles/soplex.dir/src/slufactor_rational.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/slufactor_rational.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/slufactor_rational.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp -o CMakeFiles/soplex.dir/src/slufactor_rational.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/slufactor_rational.cpp -o CMakeFiles/soplex.dir/src/slufactor_rational.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvedbds.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvedbds.cpp.o: ../../3rd_party/soplex/src/solvedbds.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvedbds.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solvedbds.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solvedbds.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvedbds.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/solvedbds.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp > CMakeFiles/soplex.dir/src/solvedbds.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp > CMakeFiles/soplex.dir/src/solvedbds.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvedbds.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/solvedbds.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp -o CMakeFiles/soplex.dir/src/solvedbds.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvedbds.cpp -o CMakeFiles/soplex.dir/src/solvedbds.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solverational.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solverational.cpp.o: ../../3rd_party/soplex/src/solverational.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/solverational.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solverational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solverational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solverational.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/solverational.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp > CMakeFiles/soplex.dir/src/solverational.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp > CMakeFiles/soplex.dir/src/solverational.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solverational.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/solverational.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp -o CMakeFiles/soplex.dir/src/solverational.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solverational.cpp -o CMakeFiles/soplex.dir/src/solverational.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvereal.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvereal.cpp.o: ../../3rd_party/soplex/src/solvereal.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvereal.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solvereal.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/solvereal.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvereal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/solvereal.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp > CMakeFiles/soplex.dir/src/solvereal.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp > CMakeFiles/soplex.dir/src/solvereal.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/solvereal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/solvereal.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp -o CMakeFiles/soplex.dir/src/solvereal.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/solvereal.cpp -o CMakeFiles/soplex.dir/src/solvereal.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplex.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplex.cpp.o: ../../3rd_party/soplex/src/soplex.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplex.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/soplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/soplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/soplex.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp > CMakeFiles/soplex.dir/src/soplex.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp > CMakeFiles/soplex.dir/src/soplex.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/soplex.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp -o CMakeFiles/soplex.dir/src/soplex.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplex.cpp -o CMakeFiles/soplex.dir/src/soplex.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplexlegacy.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplexlegacy.cpp.o: ../../3rd_party/soplex/src/soplexlegacy.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplexlegacy.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/soplexlegacy.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/soplexlegacy.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplexlegacy.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/soplexlegacy.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp > CMakeFiles/soplex.dir/src/soplexlegacy.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp > CMakeFiles/soplex.dir/src/soplexlegacy.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/soplexlegacy.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/soplexlegacy.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp -o CMakeFiles/soplex.dir/src/soplexlegacy.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/soplexlegacy.cpp -o CMakeFiles/soplex.dir/src/soplexlegacy.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxautopr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxautopr.cpp.o: ../../3rd_party/soplex/src/spxautopr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxautopr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxautopr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxautopr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxautopr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxautopr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp > CMakeFiles/soplex.dir/src/spxautopr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp > CMakeFiles/soplex.dir/src/spxautopr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxautopr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxautopr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp -o CMakeFiles/soplex.dir/src/spxautopr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxautopr.cpp -o CMakeFiles/soplex.dir/src/spxautopr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbasis.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbasis.cpp.o: ../../3rd_party/soplex/src/spxbasis.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbasis.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxbasis.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxbasis.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbasis.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxbasis.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp > CMakeFiles/soplex.dir/src/spxbasis.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp > CMakeFiles/soplex.dir/src/spxbasis.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbasis.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxbasis.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp -o CMakeFiles/soplex.dir/src/spxbasis.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbasis.cpp -o CMakeFiles/soplex.dir/src/spxbasis.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.o: ../../3rd_party/soplex/src/spxboundflippingrt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp > CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp > CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp -o CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxboundflippingrt.cpp -o CMakeFiles/soplex.dir/src/spxboundflippingrt.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbounds.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbounds.cpp.o: ../../3rd_party/soplex/src/spxbounds.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbounds.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxbounds.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxbounds.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbounds.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxbounds.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp > CMakeFiles/soplex.dir/src/spxbounds.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp > CMakeFiles/soplex.dir/src/spxbounds.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxbounds.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxbounds.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp -o CMakeFiles/soplex.dir/src/spxbounds.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxbounds.cpp -o CMakeFiles/soplex.dir/src/spxbounds.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxchangebasis.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxchangebasis.cpp.o: ../../3rd_party/soplex/src/spxchangebasis.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxchangebasis.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxchangebasis.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxchangebasis.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxchangebasis.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxchangebasis.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp > CMakeFiles/soplex.dir/src/spxchangebasis.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp > CMakeFiles/soplex.dir/src/spxchangebasis.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxchangebasis.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxchangebasis.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp -o CMakeFiles/soplex.dir/src/spxchangebasis.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxchangebasis.cpp -o CMakeFiles/soplex.dir/src/spxchangebasis.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.o: ../../3rd_party/soplex/src/spxdantzigpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp > CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp > CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp -o CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdantzigpr.cpp -o CMakeFiles/soplex.dir/src/spxdantzigpr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.o: ../../3rd_party/soplex/src/spxdefaultrt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp > CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp > CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp -o CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefaultrt.cpp -o CMakeFiles/soplex.dir/src/spxdefaultrt.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefines.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefines.cpp.o: ../../3rd_party/soplex/src/spxdefines.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefines.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdefines.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdefines.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefines.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxdefines.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp > CMakeFiles/soplex.dir/src/spxdefines.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp > CMakeFiles/soplex.dir/src/spxdefines.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdefines.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxdefines.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp -o CMakeFiles/soplex.dir/src/spxdefines.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdefines.cpp -o CMakeFiles/soplex.dir/src/spxdefines.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdesc.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdesc.cpp.o: ../../3rd_party/soplex/src/spxdesc.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdesc.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdesc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdesc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdesc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxdesc.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp > CMakeFiles/soplex.dir/src/spxdesc.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp > CMakeFiles/soplex.dir/src/spxdesc.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdesc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxdesc.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp -o CMakeFiles/soplex.dir/src/spxdesc.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdesc.cpp -o CMakeFiles/soplex.dir/src/spxdesc.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdevexpr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdevexpr.cpp.o: ../../3rd_party/soplex/src/spxdevexpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdevexpr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdevexpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxdevexpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdevexpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxdevexpr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp > CMakeFiles/soplex.dir/src/spxdevexpr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp > CMakeFiles/soplex.dir/src/spxdevexpr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxdevexpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxdevexpr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp -o CMakeFiles/soplex.dir/src/spxdevexpr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxdevexpr.cpp -o CMakeFiles/soplex.dir/src/spxdevexpr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxequilisc.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxequilisc.cpp.o: ../../3rd_party/soplex/src/spxequilisc.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxequilisc.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxequilisc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxequilisc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxequilisc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxequilisc.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp > CMakeFiles/soplex.dir/src/spxequilisc.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp > CMakeFiles/soplex.dir/src/spxequilisc.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxequilisc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxequilisc.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp -o CMakeFiles/soplex.dir/src/spxequilisc.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxequilisc.cpp -o CMakeFiles/soplex.dir/src/spxequilisc.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfastrt.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfastrt.cpp.o: ../../3rd_party/soplex/src/spxfastrt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfastrt.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxfastrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxfastrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfastrt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxfastrt.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp > CMakeFiles/soplex.dir/src/spxfastrt.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp > CMakeFiles/soplex.dir/src/spxfastrt.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfastrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxfastrt.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp -o CMakeFiles/soplex.dir/src/spxfastrt.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfastrt.cpp -o CMakeFiles/soplex.dir/src/spxfastrt.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfileio.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfileio.cpp.o: ../../3rd_party/soplex/src/spxfileio.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfileio.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxfileio.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxfileio.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfileio.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxfileio.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp > CMakeFiles/soplex.dir/src/spxfileio.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp > CMakeFiles/soplex.dir/src/spxfileio.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxfileio.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxfileio.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp -o CMakeFiles/soplex.dir/src/spxfileio.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxfileio.cpp -o CMakeFiles/soplex.dir/src/spxfileio.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgeometsc.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgeometsc.cpp.o: ../../3rd_party/soplex/src/spxgeometsc.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgeometsc.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxgeometsc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxgeometsc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgeometsc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxgeometsc.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp > CMakeFiles/soplex.dir/src/spxgeometsc.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp > CMakeFiles/soplex.dir/src/spxgeometsc.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgeometsc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxgeometsc.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp -o CMakeFiles/soplex.dir/src/spxgeometsc.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgeometsc.cpp -o CMakeFiles/soplex.dir/src/spxgeometsc.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgithash.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgithash.cpp.o: ../../3rd_party/soplex/src/spxgithash.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgithash.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxgithash.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxgithash.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgithash.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxgithash.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp > CMakeFiles/soplex.dir/src/spxgithash.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp > CMakeFiles/soplex.dir/src/spxgithash.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxgithash.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxgithash.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp -o CMakeFiles/soplex.dir/src/spxgithash.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxgithash.cpp -o CMakeFiles/soplex.dir/src/spxgithash.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxharrisrt.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxharrisrt.cpp.o: ../../3rd_party/soplex/src/spxharrisrt.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxharrisrt.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxharrisrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxharrisrt.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxharrisrt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxharrisrt.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp > CMakeFiles/soplex.dir/src/spxharrisrt.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp > CMakeFiles/soplex.dir/src/spxharrisrt.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxharrisrt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxharrisrt.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp -o CMakeFiles/soplex.dir/src/spxharrisrt.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxharrisrt.cpp -o CMakeFiles/soplex.dir/src/spxharrisrt.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxhybridpr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxhybridpr.cpp.o: ../../3rd_party/soplex/src/spxhybridpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxhybridpr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxhybridpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxhybridpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxhybridpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxhybridpr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp > CMakeFiles/soplex.dir/src/spxhybridpr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp > CMakeFiles/soplex.dir/src/spxhybridpr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxhybridpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxhybridpr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp -o CMakeFiles/soplex.dir/src/spxhybridpr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxhybridpr.cpp -o CMakeFiles/soplex.dir/src/spxhybridpr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxid.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxid.cpp.o: ../../3rd_party/soplex/src/spxid.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxid.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxid.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxid.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxid.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp > CMakeFiles/soplex.dir/src/spxid.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp > CMakeFiles/soplex.dir/src/spxid.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxid.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp -o CMakeFiles/soplex.dir/src/spxid.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxid.cpp -o CMakeFiles/soplex.dir/src/spxid.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.o: ../../3rd_party/soplex/src/spxleastsqsc.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp > CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp > CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp -o CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxleastsqsc.cpp -o CMakeFiles/soplex.dir/src/spxleastsqsc.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.o: ../../3rd_party/soplex/src/spxlpbase_rational.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp > CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp > CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp -o CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_rational.cpp -o CMakeFiles/soplex.dir/src/spxlpbase_rational.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.o: ../../3rd_party/soplex/src/spxlpbase_real.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp > CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp > CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp -o CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxlpbase_real.cpp -o CMakeFiles/soplex.dir/src/spxlpbase_real.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxmainsm.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxmainsm.cpp.o: ../../3rd_party/soplex/src/spxmainsm.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxmainsm.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxmainsm.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxmainsm.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxmainsm.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxmainsm.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp > CMakeFiles/soplex.dir/src/spxmainsm.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp > CMakeFiles/soplex.dir/src/spxmainsm.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxmainsm.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxmainsm.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp -o CMakeFiles/soplex.dir/src/spxmainsm.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxmainsm.cpp -o CMakeFiles/soplex.dir/src/spxmainsm.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxout.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxout.cpp.o: ../../3rd_party/soplex/src/spxout.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxout.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxout.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxout.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxout.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxout.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp > CMakeFiles/soplex.dir/src/spxout.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp > CMakeFiles/soplex.dir/src/spxout.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxout.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxout.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp -o CMakeFiles/soplex.dir/src/spxout.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxout.cpp -o CMakeFiles/soplex.dir/src/spxout.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxparmultpr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxparmultpr.cpp.o: ../../3rd_party/soplex/src/spxparmultpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxparmultpr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxparmultpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxparmultpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxparmultpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxparmultpr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp > CMakeFiles/soplex.dir/src/spxparmultpr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp > CMakeFiles/soplex.dir/src/spxparmultpr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxparmultpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxparmultpr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp -o CMakeFiles/soplex.dir/src/spxparmultpr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxparmultpr.cpp -o CMakeFiles/soplex.dir/src/spxparmultpr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxquality.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxquality.cpp.o: ../../3rd_party/soplex/src/spxquality.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxquality.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxquality.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxquality.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxquality.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxquality.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp > CMakeFiles/soplex.dir/src/spxquality.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp > CMakeFiles/soplex.dir/src/spxquality.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxquality.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxquality.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp -o CMakeFiles/soplex.dir/src/spxquality.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxquality.cpp -o CMakeFiles/soplex.dir/src/spxquality.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxscaler.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxscaler.cpp.o: ../../3rd_party/soplex/src/spxscaler.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxscaler.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxscaler.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxscaler.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxscaler.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxscaler.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp > CMakeFiles/soplex.dir/src/spxscaler.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp > CMakeFiles/soplex.dir/src/spxscaler.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxscaler.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxscaler.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp -o CMakeFiles/soplex.dir/src/spxscaler.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxscaler.cpp -o CMakeFiles/soplex.dir/src/spxscaler.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxshift.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxshift.cpp.o: ../../3rd_party/soplex/src/spxshift.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxshift.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxshift.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxshift.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxshift.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxshift.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp > CMakeFiles/soplex.dir/src/spxshift.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp > CMakeFiles/soplex.dir/src/spxshift.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxshift.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxshift.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp -o CMakeFiles/soplex.dir/src/spxshift.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxshift.cpp -o CMakeFiles/soplex.dir/src/spxshift.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolve.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolve.cpp.o: ../../3rd_party/soplex/src/spxsolve.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolve.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsolve.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsolve.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolve.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxsolve.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp > CMakeFiles/soplex.dir/src/spxsolve.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp > CMakeFiles/soplex.dir/src/spxsolve.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolve.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxsolve.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp -o CMakeFiles/soplex.dir/src/spxsolve.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolve.cpp -o CMakeFiles/soplex.dir/src/spxsolve.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolver.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolver.cpp.o: ../../3rd_party/soplex/src/spxsolver.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolver.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsolver.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsolver.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolver.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxsolver.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp > CMakeFiles/soplex.dir/src/spxsolver.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp > CMakeFiles/soplex.dir/src/spxsolver.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsolver.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxsolver.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp -o CMakeFiles/soplex.dir/src/spxsolver.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsolver.cpp -o CMakeFiles/soplex.dir/src/spxsolver.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxstarter.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxstarter.cpp.o: ../../3rd_party/soplex/src/spxstarter.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxstarter.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxstarter.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxstarter.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxstarter.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxstarter.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp > CMakeFiles/soplex.dir/src/spxstarter.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp > CMakeFiles/soplex.dir/src/spxstarter.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxstarter.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxstarter.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp -o CMakeFiles/soplex.dir/src/spxstarter.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxstarter.cpp -o CMakeFiles/soplex.dir/src/spxstarter.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsteeppr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsteeppr.cpp.o: ../../3rd_party/soplex/src/spxsteeppr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsteeppr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsteeppr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsteeppr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsteeppr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxsteeppr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp > CMakeFiles/soplex.dir/src/spxsteeppr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp > CMakeFiles/soplex.dir/src/spxsteeppr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsteeppr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxsteeppr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp -o CMakeFiles/soplex.dir/src/spxsteeppr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsteeppr.cpp -o CMakeFiles/soplex.dir/src/spxsteeppr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsumst.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsumst.cpp.o: ../../3rd_party/soplex/src/spxsumst.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsumst.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsumst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxsumst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsumst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxsumst.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp > CMakeFiles/soplex.dir/src/spxsumst.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp > CMakeFiles/soplex.dir/src/spxsumst.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxsumst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxsumst.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp -o CMakeFiles/soplex.dir/src/spxsumst.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxsumst.cpp -o CMakeFiles/soplex.dir/src/spxsumst.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvecs.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvecs.cpp.o: ../../3rd_party/soplex/src/spxvecs.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvecs.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxvecs.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxvecs.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvecs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxvecs.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp > CMakeFiles/soplex.dir/src/spxvecs.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp > CMakeFiles/soplex.dir/src/spxvecs.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvecs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxvecs.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp -o CMakeFiles/soplex.dir/src/spxvecs.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvecs.cpp -o CMakeFiles/soplex.dir/src/spxvecs.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvectorst.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvectorst.cpp.o: ../../3rd_party/soplex/src/spxvectorst.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvectorst.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxvectorst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxvectorst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvectorst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxvectorst.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp > CMakeFiles/soplex.dir/src/spxvectorst.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp > CMakeFiles/soplex.dir/src/spxvectorst.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxvectorst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxvectorst.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp -o CMakeFiles/soplex.dir/src/spxvectorst.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxvectorst.cpp -o CMakeFiles/soplex.dir/src/spxvectorst.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightpr.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightpr.cpp.o: ../../3rd_party/soplex/src/spxweightpr.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightpr.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxweightpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxweightpr.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightpr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxweightpr.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp > CMakeFiles/soplex.dir/src/spxweightpr.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp > CMakeFiles/soplex.dir/src/spxweightpr.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightpr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxweightpr.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp -o CMakeFiles/soplex.dir/src/spxweightpr.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightpr.cpp -o CMakeFiles/soplex.dir/src/spxweightpr.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightst.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightst.cpp.o: ../../3rd_party/soplex/src/spxweightst.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightst.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxweightst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxweightst.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightst.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxweightst.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp > CMakeFiles/soplex.dir/src/spxweightst.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp > CMakeFiles/soplex.dir/src/spxweightst.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxweightst.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxweightst.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp -o CMakeFiles/soplex.dir/src/spxweightst.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxweightst.cpp -o CMakeFiles/soplex.dir/src/spxweightst.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxwritestate.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxwritestate.cpp.o: ../../3rd_party/soplex/src/spxwritestate.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxwritestate.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxwritestate.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/spxwritestate.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxwritestate.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/spxwritestate.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp > CMakeFiles/soplex.dir/src/spxwritestate.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp > CMakeFiles/soplex.dir/src/spxwritestate.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/spxwritestate.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/spxwritestate.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp -o CMakeFiles/soplex.dir/src/spxwritestate.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/spxwritestate.cpp -o CMakeFiles/soplex.dir/src/spxwritestate.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/statistics.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/statistics.cpp.o: ../../3rd_party/soplex/src/statistics.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/statistics.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/statistics.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/statistics.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/statistics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/statistics.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp > CMakeFiles/soplex.dir/src/statistics.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp > CMakeFiles/soplex.dir/src/statistics.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/statistics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/statistics.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp -o CMakeFiles/soplex.dir/src/statistics.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/statistics.cpp -o CMakeFiles/soplex.dir/src/statistics.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/testsoplex.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/testsoplex.cpp.o: ../../3rd_party/soplex/src/testsoplex.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/testsoplex.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/testsoplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/testsoplex.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/testsoplex.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/testsoplex.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp > CMakeFiles/soplex.dir/src/testsoplex.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp > CMakeFiles/soplex.dir/src/testsoplex.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/testsoplex.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/testsoplex.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp -o CMakeFiles/soplex.dir/src/testsoplex.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/testsoplex.cpp -o CMakeFiles/soplex.dir/src/testsoplex.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/updatevector.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/updatevector.cpp.o: ../../3rd_party/soplex/src/updatevector.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/updatevector.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/updatevector.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/updatevector.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/updatevector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/updatevector.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp > CMakeFiles/soplex.dir/src/updatevector.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp > CMakeFiles/soplex.dir/src/updatevector.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/updatevector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/updatevector.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp -o CMakeFiles/soplex.dir/src/updatevector.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/updatevector.cpp -o CMakeFiles/soplex.dir/src/updatevector.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/usertimer.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/usertimer.cpp.o: ../../3rd_party/soplex/src/usertimer.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/usertimer.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/usertimer.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/usertimer.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/usertimer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/usertimer.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp > CMakeFiles/soplex.dir/src/usertimer.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp > CMakeFiles/soplex.dir/src/usertimer.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/usertimer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/usertimer.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp -o CMakeFiles/soplex.dir/src/usertimer.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/usertimer.cpp -o CMakeFiles/soplex.dir/src/usertimer.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/validation.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/validation.cpp.o: ../../3rd_party/soplex/src/validation.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/validation.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/validation.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/validation.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/validation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/validation.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp > CMakeFiles/soplex.dir/src/validation.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp > CMakeFiles/soplex.dir/src/validation.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/validation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/validation.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp -o CMakeFiles/soplex.dir/src/validation.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/validation.cpp -o CMakeFiles/soplex.dir/src/validation.cpp.s
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/wallclocktimer.cpp.o: 3rd_party/soplex/CMakeFiles/soplex.dir/flags.make
 3rd_party/soplex/CMakeFiles/soplex.dir/src/wallclocktimer.cpp.o: ../../3rd_party/soplex/src/wallclocktimer.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object 3rd_party/soplex/CMakeFiles/soplex.dir/src/wallclocktimer.cpp.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/wallclocktimer.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/soplex.dir/src/wallclocktimer.cpp.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/wallclocktimer.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/soplex.dir/src/wallclocktimer.cpp.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp > CMakeFiles/soplex.dir/src/wallclocktimer.cpp.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp > CMakeFiles/soplex.dir/src/wallclocktimer.cpp.i
 
 3rd_party/soplex/CMakeFiles/soplex.dir/src/wallclocktimer.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/soplex.dir/src/wallclocktimer.cpp.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp -o CMakeFiles/soplex.dir/src/wallclocktimer.cpp.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/soplex && /usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/soplex/src/wallclocktimer.cpp -o CMakeFiles/soplex.dir/src/wallclocktimer.cpp.s
 
 # Object files for target soplex
 soplex_OBJECTS = \

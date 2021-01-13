@@ -270,9 +270,9 @@ scip: 3rd_party/scip/CMakeFiles/scip.dir/rule
 # Target rules for target Polygonization/CMakeFiles/Polygonization.dir
 
 # All Build rule for target.
-Polygonization/CMakeFiles/Polygonization.dir/all: 3rd_party/soplex/CMakeFiles/soplex.dir/all
-Polygonization/CMakeFiles/Polygonization.dir/all: 3rd_party/rply/CMakeFiles/rply.dir/all
 Polygonization/CMakeFiles/Polygonization.dir/all: 3rd_party/scip/CMakeFiles/scip.dir/all
+Polygonization/CMakeFiles/Polygonization.dir/all: 3rd_party/rply/CMakeFiles/rply.dir/all
+Polygonization/CMakeFiles/Polygonization.dir/all: 3rd_party/soplex/CMakeFiles/soplex.dir/all
 	$(MAKE) $(MAKESILENT) -f Polygonization/CMakeFiles/Polygonization.dir/build.make Polygonization/CMakeFiles/Polygonization.dir/depend
 	$(MAKE) $(MAKESILENT) -f Polygonization/CMakeFiles/Polygonization.dir/build.make Polygonization/CMakeFiles/Polygonization.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=1 "Built target Polygonization"

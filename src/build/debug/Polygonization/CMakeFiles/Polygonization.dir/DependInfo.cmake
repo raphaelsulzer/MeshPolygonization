@@ -27,7 +27,6 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "../../3rd_party/scip"
   "../../3rd_party/scip/scip"
   "../../3rd_party/rply"
-  "/home/adminlocal/PhD/cpp/surfaceReconstruction/src/IO"
   "Polygonization"
   )
 

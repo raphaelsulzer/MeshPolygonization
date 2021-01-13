@@ -44,6 +44,7 @@ endif ()
 
 
 FIND_PACKAGE(Boost REQUIRED COMPONENTS iostreams program_options)
+find_package(tinyply REQUIRED)
 
 ################################################################################
 

@@ -161,6 +161,7 @@ bin/Polygonization: Polygonization/CMakeFiles/Polygonization.dir/build.make
 bin/Polygonization: /usr/lib/x86_64-linux-gnu/libboost_iostreams.so
 bin/Polygonization: /usr/lib/x86_64-linux-gnu/libboost_program_options.so
 bin/Polygonization: /usr/lib/x86_64-linux-gnu/libboost_regex.so
+bin/Polygonization: /usr/local/lib/libtinyply.a
 bin/Polygonization: lib/libscip.a
 bin/Polygonization: lib/libsoplex.a
 bin/Polygonization: lib/librply.a

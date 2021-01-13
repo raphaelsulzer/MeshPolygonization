@@ -79,15 +79,15 @@ include 3rd_party/rply/CMakeFiles/rply.dir/flags.make
 3rd_party/rply/CMakeFiles/rply.dir/rply.c.o: 3rd_party/rply/CMakeFiles/rply.dir/flags.make
 3rd_party/rply/CMakeFiles/rply.dir/rply.c.o: ../../3rd_party/rply/rply.c
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object 3rd_party/rply/CMakeFiles/rply.dir/rply.c.o"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/rply.dir/rply.c.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/rply.dir/rply.c.o -c /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c
 
 3rd_party/rply/CMakeFiles/rply.dir/rply.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/rply.dir/rply.c.i"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c > CMakeFiles/rply.dir/rply.c.i
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c > CMakeFiles/rply.dir/rply.c.i
 
 3rd_party/rply/CMakeFiles/rply.dir/rply.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/rply.dir/rply.c.s"
-	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c -o CMakeFiles/rply.dir/rply.c.s
+	cd /home/adminlocal/PhD/cpp/MeshPolygonization/src/build/release/3rd_party/rply && /usr/bin/gcc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/adminlocal/PhD/cpp/MeshPolygonization/src/3rd_party/rply/rply.c -o CMakeFiles/rply.dir/rply.c.s
 
 # Object files for target rply
 rply_OBJECTS = \
